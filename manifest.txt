@@ -1,0 +1,13 @@
+SKILL.md
+examples/clob_read_only.py
+examples/gamma_find_markets.py
+examples/manage_orders.py
+examples/place_limit_order.py
+examples/place_market_order.py
+examples/trading_client_from_env.py
+sources.md
+tasks/common_failures.md
+tasks/market_discovery.md
+tasks/order_workflows.md
+tasks/read_only_clob.md
+tasks/trading_setup.md
