@@ -11,3 +11,4 @@ tasks/market_discovery.md
 tasks/order_workflows.md
 tasks/read_only_clob.md
 tasks/trading_setup.md
+tasks/sdk_reference.md

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Polymarket Python SDK"
+  short_description: "Build and debug Polymarket Python trade flows"
+  default_prompt: "Use $polymarket-python-codex-skill to build or debug Python code against Polymarket's CLOB SDK and Gamma API."
